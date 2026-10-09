@@ -42,4 +42,4 @@ Prarabdh Gurav
 
 ---
 
-*This project was developed for learning and demonstrating ticket management application development using .NET technologies.*
+
